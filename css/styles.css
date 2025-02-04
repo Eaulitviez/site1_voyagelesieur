@@ -119,6 +119,12 @@ h2{
     gap: 60px;
     margin-bottom: 80px;
 }
+
+
+.conteneur-transport-invisible{
+    display: none;
+    }
+    
 h3{
     font-size: 36px;
     text-align: center;
